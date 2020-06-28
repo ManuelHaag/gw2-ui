@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{831:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Torch.a83aafc5.png"}}]);
+//# sourceMappingURL=20.2973f3ad6f375986bb4d.bundle.js.map
