@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{850:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Vigor.0ced48ee.png"}}]);
-//# sourceMappingURL=23.95600d3dfcf0833b4a63.bundle.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[82],{909:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Rifle.a6e2c4cf.png"}}]);
-//# sourceMappingURL=82.95600d3dfcf0833b4a63.bundle.js.map

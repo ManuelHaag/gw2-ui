@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[77],{904:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Hammer.fbec457b.png"}}]);
-//# sourceMappingURL=77.95600d3dfcf0833b4a63.bundle.js.map

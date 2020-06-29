@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[72],{899:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Vengeance.01cf0184.png"}}]);
-//# sourceMappingURL=72.95600d3dfcf0833b4a63.bundle.js.map
