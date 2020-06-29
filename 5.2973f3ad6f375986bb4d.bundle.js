@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{816:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Axe.757e2e9e.png"}}]);
-//# sourceMappingURL=5.2973f3ad6f375986bb4d.bundle.js.map

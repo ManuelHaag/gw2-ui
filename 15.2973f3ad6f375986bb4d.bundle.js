@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{826:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Shield.339b22d1.png"}}]);
-//# sourceMappingURL=15.2973f3ad6f375986bb4d.bundle.js.map

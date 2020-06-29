@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{845:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Regeneration.88b4c776.png"}}]);
+//# sourceMappingURL=18.206cb95992f1151b3f53.bundle.js.map

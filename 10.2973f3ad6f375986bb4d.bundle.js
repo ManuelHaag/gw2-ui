@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{821:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Longbow.3fb3525b.png"}}]);
-//# sourceMappingURL=10.2973f3ad6f375986bb4d.bundle.js.map

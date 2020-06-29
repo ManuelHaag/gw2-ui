@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{828:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Spear.3a140da8.png"}}]);
-//# sourceMappingURL=17.2973f3ad6f375986bb4d.bundle.js.map
