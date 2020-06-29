@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[77],{904:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Greatsword.5c0be80a.png"}}]);
-//# sourceMappingURL=77.167309ca65f009e81554.bundle.js.map

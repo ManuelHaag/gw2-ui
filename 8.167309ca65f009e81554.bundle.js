@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{835:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/FrostAura.6ff3130d.png"}}]);
-//# sourceMappingURL=8.167309ca65f009e81554.bundle.js.map

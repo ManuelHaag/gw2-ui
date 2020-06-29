@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[80],{911:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Elementalist.41a3910a.png"}}]);
+//# sourceMappingURL=80.744acfa16f05d1f8c1d9.bundle.js.map

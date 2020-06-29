@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[61],{892:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/FractalVindicators.e551f3c4.png"}}]);
+//# sourceMappingURL=61.744acfa16f05d1f8c1d9.bundle.js.map

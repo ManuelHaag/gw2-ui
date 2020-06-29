@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[58],{885:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Afflicted.611d4e8b.png"}}]);
-//# sourceMappingURL=58.167309ca65f009e81554.bundle.js.map
