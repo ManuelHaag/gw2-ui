@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[83],{910:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Scepter.5b91295c.png"}}]);
-//# sourceMappingURL=83.206cb95992f1151b3f53.bundle.js.map

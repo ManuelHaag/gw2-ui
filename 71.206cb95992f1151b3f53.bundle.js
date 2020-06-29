@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[71],{898:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/ToxicTrail.6970f3b5.png"}}]);
-//# sourceMappingURL=71.206cb95992f1151b3f53.bundle.js.map

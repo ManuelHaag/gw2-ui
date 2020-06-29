@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[80],{907:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Mace.2b4286b8.png"}}]);
-//# sourceMappingURL=80.206cb95992f1151b3f53.bundle.js.map

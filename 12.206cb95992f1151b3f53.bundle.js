@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{839:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Aegis.2e2e27e2.png"}}]);
-//# sourceMappingURL=12.206cb95992f1151b3f53.bundle.js.map

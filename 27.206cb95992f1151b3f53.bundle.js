@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{854:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Chilled.5164b73b.png"}}]);
-//# sourceMappingURL=27.206cb95992f1151b3f53.bundle.js.map
