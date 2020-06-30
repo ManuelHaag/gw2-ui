@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[82],{913:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Firebrand.769fd1a7.png"}}]);
-//# sourceMappingURL=82.744acfa16f05d1f8c1d9.bundle.js.map

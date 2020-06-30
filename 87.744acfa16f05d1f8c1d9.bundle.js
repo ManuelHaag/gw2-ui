@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[87],{918:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Mirage.45d9e05d.png"}}]);
-//# sourceMappingURL=87.744acfa16f05d1f8c1d9.bundle.js.map

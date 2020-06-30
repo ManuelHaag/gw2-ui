@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[84],{915:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Herald.4a3c07c6.png"}}]);
-//# sourceMappingURL=84.744acfa16f05d1f8c1d9.bundle.js.map

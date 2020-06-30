@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[96],{927:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Spellbreaker.ba89191b.png"}}]);
-//# sourceMappingURL=96.744acfa16f05d1f8c1d9.bundle.js.map
