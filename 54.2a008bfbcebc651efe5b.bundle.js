@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[54],{923:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Burning.58076b71.png"}}]);
-//# sourceMappingURL=54.2a008bfbcebc651efe5b.bundle.js.map

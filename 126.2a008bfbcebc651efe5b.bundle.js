@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[126],{995:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Reset.2e891f8e.png"}}]);
-//# sourceMappingURL=126.2a008bfbcebc651efe5b.bundle.js.map

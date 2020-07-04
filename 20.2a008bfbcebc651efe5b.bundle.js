@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{889:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Power.0a19a2bf.png"}}]);
-//# sourceMappingURL=20.2a008bfbcebc651efe5b.bundle.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[60],{929:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Poisoned.d4be2dd8.png"}}]);
-//# sourceMappingURL=60.2a008bfbcebc651efe5b.bundle.js.map

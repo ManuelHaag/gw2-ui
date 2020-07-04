@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[52],{921:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Bleeding.577dc64a.png"}}]);
-//# sourceMappingURL=52.2a008bfbcebc651efe5b.bundle.js.map
