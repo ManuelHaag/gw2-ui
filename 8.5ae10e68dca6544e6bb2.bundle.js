@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{878:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Concentration.c2e5f542.png"}}]);
-//# sourceMappingURL=8.5ae10e68dca6544e6bb2.bundle.js.map

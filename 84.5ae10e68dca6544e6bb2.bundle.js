@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[84],{954:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/LastLaugh.e79cc847.png"}}]);
-//# sourceMappingURL=84.5ae10e68dca6544e6bb2.bundle.js.map

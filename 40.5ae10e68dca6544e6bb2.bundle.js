@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[40],{910:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Retaliation.9e264e80.png"}}]);
-//# sourceMappingURL=40.5ae10e68dca6544e6bb2.bundle.js.map

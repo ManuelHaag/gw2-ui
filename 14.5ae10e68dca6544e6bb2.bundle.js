@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{884:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Ferocity.71a1cad9.png"}}]);
-//# sourceMappingURL=14.5ae10e68dca6544e6bb2.bundle.js.map

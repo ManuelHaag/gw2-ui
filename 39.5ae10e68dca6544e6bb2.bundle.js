@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{909:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Resistance.9afc26aa.png"}}]);
-//# sourceMappingURL=39.5ae10e68dca6544e6bb2.bundle.js.map

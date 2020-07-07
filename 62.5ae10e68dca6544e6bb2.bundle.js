@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[62],{932:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Taunt.86a502a4.png"}}]);
-//# sourceMappingURL=62.5ae10e68dca6544e6bb2.bundle.js.map

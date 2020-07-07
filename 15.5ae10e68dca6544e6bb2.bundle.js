@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{885:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/GoldFind.98eac0b7.png"}}]);
-//# sourceMappingURL=15.5ae10e68dca6544e6bb2.bundle.js.map

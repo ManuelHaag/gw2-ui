@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[103],{973:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Guardian.353280cc.png"}}]);
-//# sourceMappingURL=103.5ae10e68dca6544e6bb2.bundle.js.map
