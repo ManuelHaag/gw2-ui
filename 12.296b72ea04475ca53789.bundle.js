@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{881:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/CriticalDamage.76223aba.png"}}]);
-//# sourceMappingURL=12.296b72ea04475ca53789.bundle.js.map

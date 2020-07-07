@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[112],{981:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Revenant.6627fe79.png"}}]);
-//# sourceMappingURL=112.296b72ea04475ca53789.bundle.js.map

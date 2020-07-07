@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[24],{893:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/XPGain.c33c382b.png"}}]);
-//# sourceMappingURL=24.296b72ea04475ca53789.bundle.js.map
