@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[115],{985:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Soulbeast.aa0074f8.png"}}]);
-//# sourceMappingURL=115.dd0d4a9f2593d8e41c62.bundle.js.map

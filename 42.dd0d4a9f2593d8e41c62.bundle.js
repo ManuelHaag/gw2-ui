@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[42],{912:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Swiftness.08e213ff.png"}}]);
-//# sourceMappingURL=42.dd0d4a9f2593d8e41c62.bundle.js.map

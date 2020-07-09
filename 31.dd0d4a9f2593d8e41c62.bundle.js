@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[31],{901:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Shocking.e3d1de3d.png"}}]);
-//# sourceMappingURL=31.dd0d4a9f2593d8e41c62.bundle.js.map

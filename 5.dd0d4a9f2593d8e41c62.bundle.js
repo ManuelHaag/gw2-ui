@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{875:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/AgonyResistance.902b12ed.png"}}]);
-//# sourceMappingURL=5.dd0d4a9f2593d8e41c62.bundle.js.map

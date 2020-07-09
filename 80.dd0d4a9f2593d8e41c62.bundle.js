@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[80],{950:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/FluxBomb.a44272c2.png"}}]);
-//# sourceMappingURL=80.dd0d4a9f2593d8e41c62.bundle.js.map

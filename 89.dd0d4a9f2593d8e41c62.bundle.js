@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[89],{959:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/StickTogether.b749cb60.png"}}]);
-//# sourceMappingURL=89.dd0d4a9f2593d8e41c62.bundle.js.map

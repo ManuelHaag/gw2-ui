@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[61],{931:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Slow.919328ad.png"}}]);
-//# sourceMappingURL=61.dd0d4a9f2593d8e41c62.bundle.js.map

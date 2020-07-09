@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[79],{949:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/BoonOverload.d1833eb5.png"}}]);
-//# sourceMappingURL=79.dd0d4a9f2593d8e41c62.bundle.js.map

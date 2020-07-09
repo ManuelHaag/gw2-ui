@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[59],{929:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Immobile.2947a1ee.png"}}]);
-//# sourceMappingURL=59.dd0d4a9f2593d8e41c62.bundle.js.map
