@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{914:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Alacrity.70903573.png"}}]);
-//# sourceMappingURL=37.0825437fc703694e81b9.bundle.js.map

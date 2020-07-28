@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[80],{957:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Sink.cc8bff40.png"}}]);
-//# sourceMappingURL=80.0825437fc703694e81b9.bundle.js.map

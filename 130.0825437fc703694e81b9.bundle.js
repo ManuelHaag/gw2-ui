@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[130],{1007:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Sylvari.521700de.png"}}]);
-//# sourceMappingURL=130.0825437fc703694e81b9.bundle.js.map

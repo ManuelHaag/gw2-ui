@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[34],{911:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Magnetic.32f244d7.png"}}]);
-//# sourceMappingURL=34.0825437fc703694e81b9.bundle.js.map

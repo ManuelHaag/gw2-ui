@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[101],{978:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Daredevil.64f2c374.png"}}]);
-//# sourceMappingURL=101.0825437fc703694e81b9.bundle.js.map

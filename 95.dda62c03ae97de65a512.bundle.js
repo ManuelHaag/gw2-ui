@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[95],{972:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/SugarRush.903f3dd5.png"}}]);
+//# sourceMappingURL=95.dda62c03ae97de65a512.bundle.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{896:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/MagicFind.e07be813.png"}}]);
-//# sourceMappingURL=19.0825437fc703694e81b9.bundle.js.map
