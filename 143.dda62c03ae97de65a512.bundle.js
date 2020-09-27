@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[143],{1020:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/ShortBow.986305d1.png"}}]);
-//# sourceMappingURL=143.dda62c03ae97de65a512.bundle.js.map

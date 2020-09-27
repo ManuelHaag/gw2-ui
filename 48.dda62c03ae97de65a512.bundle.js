@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[48],{925:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Agony.fc9650e7.png"}}]);
-//# sourceMappingURL=48.dda62c03ae97de65a512.bundle.js.map
