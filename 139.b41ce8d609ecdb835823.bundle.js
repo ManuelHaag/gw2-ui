@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[139],{1002:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Pistol.52a687b0.png"}}]);
-//# sourceMappingURL=139.b41ce8d609ecdb835823.bundle.js.map

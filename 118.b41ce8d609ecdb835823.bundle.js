@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[118],{981:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Scourge.be3fe73b.png"}}]);
-//# sourceMappingURL=118.b41ce8d609ecdb835823.bundle.js.map

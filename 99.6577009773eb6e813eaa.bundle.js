@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[99],{994:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Berserker.043b8dab.png"}}]);
+//# sourceMappingURL=99.6577009773eb6e813eaa.bundle.js.map

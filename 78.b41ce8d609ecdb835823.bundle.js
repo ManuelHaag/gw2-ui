@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[78],{941:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Pull.b0c6c6f3.png"}}]);
-//# sourceMappingURL=78.b41ce8d609ecdb835823.bundle.js.map

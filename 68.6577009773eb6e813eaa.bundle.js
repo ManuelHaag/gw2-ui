@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[68],{963:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Torment.80a0bc9e.png"}}]);
+//# sourceMappingURL=68.6577009773eb6e813eaa.bundle.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[87],{950:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Frailty.f4586e6e.png"}}]);
-//# sourceMappingURL=87.b41ce8d609ecdb835823.bundle.js.map

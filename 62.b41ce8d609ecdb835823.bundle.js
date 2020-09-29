@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[62],{925:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Crippled.78a38c94.png"}}]);
-//# sourceMappingURL=62.b41ce8d609ecdb835823.bundle.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{879:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/HealingPower.bb772c66.png"}}]);
-//# sourceMappingURL=16.b41ce8d609ecdb835823.bundle.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{918:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Vitality.d2d04e5d.png"}}]);
+//# sourceMappingURL=23.6577009773eb6e813eaa.bundle.js.map

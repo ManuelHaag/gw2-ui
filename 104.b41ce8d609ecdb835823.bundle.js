@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[104],{967:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Druid.fecff5d7.png"}}]);
-//# sourceMappingURL=104.b41ce8d609ecdb835823.bundle.js.map

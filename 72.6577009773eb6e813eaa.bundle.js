@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[72],{967:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Nourishment.57ecb8a6.png"}}]);
+//# sourceMappingURL=72.6577009773eb6e813eaa.bundle.js.map

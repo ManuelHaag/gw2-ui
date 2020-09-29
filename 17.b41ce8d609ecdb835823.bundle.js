@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{880:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Health.c0346b9d.png"}}]);
-//# sourceMappingURL=17.b41ce8d609ecdb835823.bundle.js.map

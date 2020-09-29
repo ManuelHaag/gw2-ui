@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[113],{976:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Necromancer.c9f1b20f.png"}}]);
-//# sourceMappingURL=113.b41ce8d609ecdb835823.bundle.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[124],{987:function(module,exports,__webpack_require__){module.exports=__webpack_require__.p+"static/media/Warrior.45b0287c.png"}}]);
-//# sourceMappingURL=124.b41ce8d609ecdb835823.bundle.js.map
