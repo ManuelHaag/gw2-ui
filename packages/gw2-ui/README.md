@@ -31,5 +31,5 @@ Make sure your commit messages follow the [Conventional Commits specification](h
 
 # Notes
 
-- https://github.com/webpack/webpack/issues/10227
+- https://github.com/webpack/webpack/issues/10227 => `webpack` can't be hoisted in `gw2-ui-docs`
 - Only one `react` version should be present - otherwise weird things happen to hooks and the redux store

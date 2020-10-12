@@ -5,27 +5,34 @@
   "homepage": "https://manuelhaag.github.io/gw2-ui/",
   "bugs": "https://github.com/ManuelHaag/gw2-ui/issues",
   "repository": "https://github.com/ManuelHaag/gw2-ui/tree/master/packages/gw2-ui-docs",
+  "workspaces": {
+    "nohoist": [
+      "webpack"
+    ]
+  },
   "scripts": {
-    "develop": "echo develop"
+    "build-storybook": "build-storybook",
+    "storybook": "start-storybook -p 6006"
   },
   "dependencies": {
     "axios": "0.16.0",
-    "gw2-ui": "0.9.0",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-redux": "7.2.1",
+    "gw2-ui": "^0.9.0",
+    "prop-types": "15.7.2",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "react-redux": "7.1.0",
     "redux": "4.0.0",
-    "styled-components": "5.2.0",
-    "typeface-menomonia": "0.1.2"
+    "reselect": "4.0.0",
+    "typeface-menomonia": "^0.1.2"
   },
   "devDependencies": {
-    "@storybook/addon-knobs": "5.2.3",
-    "@storybook/addon-viewport": "5.2.3",
-    "@storybook/react": "5.2.3",
-    "@storybook/theming": "5.2.3",
-    "babel-loader": "8.0.5",
-    "babel-plugin-styled-components": "1.10.0",
-    "gh-pages": "2.0.1",
-    "storybook-readme": "5.0.3"
+    "@babel/runtime-corejs3": "7.4.0",
+    "@storybook/addon-actions": "^6.0.26",
+    "@storybook/addon-essentials": "^6.0.26",
+    "@storybook/addon-links": "^6.0.26",
+    "@storybook/react": "^6.0.26",
+    "gh-pages": "^3.1.0",
+    "react-is": "^16.13.1",
+    "webpack": "^4.44.2"
   }
 }
